@@ -1,0 +1,37 @@
+
+st",
+"target": {
+"summary": "Just another WordPress.com site",
+"link": "http://aboutohadfinkelstein.wordpress.com/",
+"wpBlogId": 30476069,
+"displayName":"aboutohadfinkelstein", 
+"objectType":"blog"
+},
+"postedTime":"2011-12-16T18:43:23.000Z",
+"provider": {
+"link": "http://im.wordpress.com:8008/posts.json",
+"displayName": "WordPress",
+"objectType": "service"
+},
+"object": {
+"id": "article:wordpress.com:30476069:4",
+"content": "<a href=\"http://aboutohadfinkelstein.files.wordpress.com/2011/12/investing-in-telecom.jpg\"><img class=\"alignnone size-full wp-image-5\" title=\"investing in telecom\" src=\"http://aboutohadfinkelstein.files.wordpress.com/2011/12/investing-in-telecom.jpg\" alt=\"\" width=\"490\" height=\"274\" /></a>\r\n\r\nVenrock, the premier venture capital firm originally established as the venture arm of the Rockefeller family, today announced that Marissa Campise has joined the firm as a vice president. She will focus on internet and digital media investments from Venrock’s New York office, where the firm’s growing New York City internet portfolio includes leading companies such as AppNexus, Media6Degrees and Smartling. Campise joins a bi-coastal technology team, which includes David Pakman and Mike Brooks in New York; Mike Tyrrell in Cambridge, MA; and Brian Ascher, Steve Goldberg, Dev Khare, and Ray Rothrock in Palo Alto, CA.\r\n\r\n“The entrepreneurial energy in New York is explosive and this community is creating some of the most exciting new companies around,” said David Pakman, partner at Venrock. “Venrock has had roots in New York since 1969, and today we add Marissa Campise to the team to solidify our position as a leading New York City internet and digital media investor. Her respect among the entrepreneurial community is exceptional and her experience and passion make her a great fit with our team. We are thrilled to welcome her to Venrock.”\r\n\r\nCampise joins Venrock from Greycroft Partners, where she was a principal in their New York office and observed on the boards of Netsertive and Klout. Prior to joining Greycroft, Campise worked in a similar role evaluating investment opportunities for Howard Lindzon. She also previously held finance positions with Deloitte &amp; Touche and Matrix USA, LLC, and is a graduate of Yale.\r\n\r\n“I find myself in a very exciting place — New York, technology innovation and now Venrock,” said Marissa Campise, vice president at Venrock. “Venrock has a rich history and I look forward to working with this amazing team to identify and help build the next generation of game-changing internet companies.”\r\n\r\nAbout Venrock\r\nVenrock is a premier venture capital firm with offices in Palo Alto, CA; New York, NY; and Cambridge, MA. Originally established as the venture capital arm of the Rockefeller family, Venrock continues an eight-decade tradition of partnering with entrepreneurs to establish successful, enduring companies. Having invested $ 2.6 billion in over 450 companies resulting in 128 IPOs and 137 M&amp;As over the past 40 years, Venrock’s investment returns place it among the top tier venture capital firms that have achieved consistently superior performance. With a primary focus on technology, healthcare, and energy, portfolio companies have included Adify, Adnexus Therapeutics, Apple Computer, Athenahealth, Centocor, Check Point Software, DoubleClick, Gilead Sciences, Idec Pharmaceuticals, Illumina, Intel, Millennium Pharmaceuticals, Sirna Therapeutics, StrataCom, and Vontu.\r\n[youtube http://www.youtube.com/watch?v=JXcogYF8_VM]",
+"summary": "Venrock, the premier venture capital firm originally established as the venture arm of the Rockefeller family, today announced that Marissa Campise has joined the firm as a vice president. She will focus on internet and digital media investments from Venrock&#8217;s New York office, where the firm&#8217;s growing New York City internet portfolio includes leading companies [...]",
+"link": "http://aboutohadfinkelstein.wordpress.com/2011/12/16/venrock-amazing-team-to-identify-and-help-build-the-next-generation-of-game-changing-internet-companies/",
+"postedTime": "2011-12-16T18:43:20Z",
+"wpBlogId": 30476069,
+"displayName": "Venrock: amazing team to identify and help build the next generation of game-changing internet companies ",
+"objectType": "article",
+"updatedTime": "2011-12-16T18:43:20Z"
+},
+"actor": {
+"id": "person:wordpress.com:30006433",
+"link": "http://gravatar.com/aboutohadfinkelstein",
+"wpEmailMd5": "6db2a9e581307ab7bc40ee8f83fe1481",
+"displayName": "aboutohadfinkelstein",
+"objectType": "person"
+},
+"displayName": "Venrock: amazing team to identify and help build the next generation of game-changing internet companies ",
+"gnip": {}
+}
+
